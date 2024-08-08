@@ -88,5 +88,6 @@ Follow these steps to install and set up the application locally:
 
 ## Contributing
 
+I tried my best as a beginner to make it look great, and this is the end result within the given time span.
 Contributions are welcome! Please fork the repository and use a feature branch. Pull requests are warmly welcome.
 
